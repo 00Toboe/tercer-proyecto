@@ -1,0 +1,9 @@
+Nombre: Lizcano Vzquez Edwin Jonathan.
+NUA: 388495.
+Grupo: A2.
+
+Perdone maestro, no logre hacer que funcionara la herencia o polimorfismo, por lo que
+para que funcione le deje la clase inicial que tenia, y el ejemplo de herencia desactivado. 
+pero si logre resolver los problemas que encontre en el juego, agrege nuevas 
+estadisticas, imagenes y el problema de los turnos en cual habia una oportunidad de que
+ningun jugador tuviera su turno.
